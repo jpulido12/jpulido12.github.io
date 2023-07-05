@@ -85,10 +85,17 @@ author:
   bio              : "Undergraduate Computer Science & Psychology student interested in exploring human cognition using behavioral, neuroimaging, & computational methods"
   location         : "Providence, RI"
   employer         :
+<<<<<<< HEAD
   pubmed           :
   googlescholar    :
   email            : joemari.pulido@gmail.com
   researchgate     :
+=======
+  pubmed           :
+  googlescholar    :
+  email            : joemari.pulido@gmail.com
+  researchgate     :
+>>>>>>> parent of 6f08dea (edited social media info links)
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +109,19 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "joemari-pulido""
+<<<<<<< HEAD
+  linkedin         : "joemari-pulido"
   orcid            : 
+=======
+  linkedin         : https://www.linkedin.com/in/joemari-pulido/
+  orcid            : 
+>>>>>>> parent of 6f08dea (edited social media info links)
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
