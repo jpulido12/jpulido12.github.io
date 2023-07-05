@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Here is a link for my full cv: [click here](https://docs.google.com/document/d/1wvmLmTKqCZVyNTeP7ol5P8nKuEApagGp1KOqcArEVcs/edit?usp=sharing)
+
 Last updated: June 2023
 
 Education
@@ -48,6 +49,7 @@ Advisor: Joanna Morris
 
   * Facilitated training on electroencephalography (EEG) data acquisition using brainvision technologies for new research assistants 
   * Mentored new research assistants on data wrangling and data analysis using MatLab and R
+  
   *Trained new research assistants on how to maintain the lab space and clean-up after EEG data collection
   
 Research Assistant, May 2021 - PRESENT
