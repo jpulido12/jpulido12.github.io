@@ -144,12 +144,9 @@ Service and leadership
     * Partnered with the Science Complex on campus to use a space in the building where everyone is able to voice their opinions on issues on campus and beyond to promote meaningful conversations for change
     * Co-organized in person events where the campus community can engage in dialogue in regard to issues in and beyond the campus
 
-  * Inclusive Teaching in STEM Reading Group, 03- 04/2023
-  
-  2023 Facilitator, 2022 Participant
-  
-    * Co-facilitated and organized a reading group where students discussed issues in inclusivity in STEM classrooms on campus 
-    * Met with group of STEM faculty along with students in the STEM reading group to explore ways to promote diversity and inclusion in STEM on campus
+  * Inclusive Teaching in STEM Reading Group Facilitator, 03- 04/2023
+      * Co-facilitated and organized a reading group where students discussed issues in inclusivity in STEM classrooms on campus 
+      * Met with group of STEM faculty along with students in the STEM reading group to explore ways to promote diversity and inclusion in STEM on campus
 
   * Hiring Interviewer, Providence College Tutoring Center, 03/2023
     * Interviewed peer tutor applicants along with the Tutoring Center Leadership and provided feedback on applicants’ potential as a peer tutor
