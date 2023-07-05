@@ -97,7 +97,7 @@ Skills
 ======
 **Spoken Languages:** English, Tagalog
 
-**Programming:** R, Python, MatLab, C++, Javascript
+**Programming:** R, Python, MatLab, C++
 
 **Markup Languages:** Markdown, RMarkdown, HTML 
 
@@ -145,6 +145,7 @@ Service and leadership
   * Inclusive Teaching in STEM Reading Group, 03- 04/2023
   
   2023 Facilitator, 2022 Participant
+  
     * Co-facilitated and organized a reading group where students discussed issues in inclusivity in STEM classrooms on campus 
     * Met with group of STEM faculty along with students in the STEM reading group to explore ways to promote diversity and inclusion in STEM on campus
 
