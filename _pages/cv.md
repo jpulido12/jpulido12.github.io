@@ -88,11 +88,17 @@ Teaching Assistant for the following undergraduate courses:
 Skills
 ======
 **Spoken Languages:** English, Tagalog
+
 **Programming:** R, Python, MatLab, C++, Javascript
+
 **Markup Languages:** Markdown, RMarkdown, HTML 
+
 **Software:** NVivo, OpenSesame, Psychopy, PsychoJS, BrainVision
+
 **Lab:** psychophysics, electroencephalography, event-related potentials
+
 **Version Control:** Git, Github, GitLab
+
 **Other:** Pavlovia, Latex, Bibtex, Excel, Netlify, MatLab EEGLab/ERPLab
 
 
