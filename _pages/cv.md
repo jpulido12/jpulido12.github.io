@@ -26,14 +26,19 @@ Princeton University
 
 
 **Neuroscience of Cognitive Control Lab**
+
 Princeton Neuroscience Institute Summer Internship, June - Aug 2023
+
 Advisors: Jonathan D. Cohen & Harrison Ritz
 
 Providence College
 
 **Department of Psychology**
+
 Independent Study, Fall 2022 - PRESENT
+
 Advisor: Joanna Morris
+
   * Proposed an N400 & P600 ERP study to investigate how stereotype violations are recognized linguistically
   * Utilized the Google Books corpus to analyze stimuli frequencies
   * Applied and received grant funding from the Providence College Psychology Department
@@ -41,12 +46,15 @@ Advisor: Joanna Morris
 **Human Psychophysiology Lab**
 
 Lab Manager, Aug 2021 - PRESENT
+
 Advisor: Joanna Morris 
+
   * Facilitated training on electroencephalography (EEG) data acquisition using brainvision technologies for new research assistants 
   * Mentored new research assistants on data wrangling and data analysis using MatLab and R 
   *Trained new research assistants on how to maintain the lab space and clean-up after EEG data collection
   
 Research Assistant, May 2021 - PRESENT
+
 Advisor: Joanna Morris 
   * Built and deployed lab website: [https://www.morrislabpc.org/about/](https://www.morrislabpc.org/about/)
   * Measured ERP responses in a mask-priming study to stem targets preceded by complex primes with either high- or low-frequency affixes (e.g., “walker-walk” vs “cashier-cash”) and found that the magnitude of priming as measured by response times, as well as by the amplitude of the N250 component—an index of compositionality—was not significantly greater for primes with high frequency affixes than for primes with low frequency affixes
@@ -54,7 +62,9 @@ Advisor: Joanna Morris
 
 
 **Risk and Prevention Lab**
+
 Research Assistant, Aug 2022 - PRESENT
+
 Advisor: Nicholas Tarantino
   * In an ongoing study funded by the National Institutes of Health, we are developing a unique game-based text message program to improve Human Immunodeficiency Virus (HIV) treatment adherence among young adults living with HIV in Ghana, West Africa
   
@@ -64,6 +74,7 @@ Advisor: Nicholas Tarantino
 Teaching
 ======
 **Peer Tutor**, Tutoring Center, Providence College, Aug 2022 - PRESENT
+
 Tutored for the following undergraduate courses: 
   * R Programming (any course on campus using R for statistics)
   * CSC 120:  Data Analytics (R, Git, Github)
@@ -76,6 +87,7 @@ Tutored for the following undergraduate courses:
   * PSY 260: Methods and Statistics in Psychology
 
 **Teaching Assistant**, Department of Biology, Providence College, F21 & S22
+
 Teaching Assistant for the following undergraduate courses: 
   * BIO 103 & BIO 103 lab: General Biology I & General Biology I Lab
   * BIO 104 & BIO 104 lab: General Biology II & General Biology II Lab
@@ -161,5 +173,5 @@ Service and leadership
 
   * Board of Multicultural Student Affairs, 08/2022 - PRESENT
   Programming Committee
-  * Organized campus-wide events that celebrate multiculturalism and promote social justice 
+    * Organized campus-wide events that celebrate multiculturalism and promote social justice 
 
