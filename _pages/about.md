@@ -10,7 +10,7 @@ redirect_from:
 
 I was born and raised on the beautiful island of [Saipan](https://en.wikipedia.org/wiki/Saipan) in the Northern Mariana Islands. Now, I'm at Providence College studying Computer Science & Psychology.
 
-Broadly, I'm interested in language, learning, and attention. How is information/input (such as language) that we retrieve from the natural world encoded in our minds? How does the brain allow us to learn from the world?  I intend on exploring these questions and more utilizing methods from cognitive and computational neuroscience.
+Broadly, I'm interested in language, learning, and attention. How is information/input (such as language) that we retrieve from the natural world encoded, stored, and accessed later on? What features of our mental architecture allow us to learn from the world? I intend on investigating these questions and more utilizing methods from cognitive and computational neuroscience. I'd also like to explore consciousness and aspects of artificial intelligence as secondary interests.
 
 I am passionate about open science, teaching, mentoring, and social justice. 
 
