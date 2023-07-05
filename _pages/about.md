@@ -14,10 +14,10 @@ Broadly, I'm interested in language, learning, and attention. How is information
 
 I am passionate about open science, teaching, mentoring, and social justice. 
 
-In my free time, I enjoy trying new restaurants, poker, swimming, horror movies, and binge watching series like Game of Thrones and Supernatural. 
+In my free time, I enjoy trying new restaurants, poker, swimming, exploring nature, and binge watching series like Game of Thrones and Supernatural. 
 
 
 Recent Activity
 ======
-  * June 2023: I started my summer Internship at the  Princeton Neuroscience Institute!
-  * May 2023: I was awarded the [Clint Anderson Research in Psychological Science Award](https://psychology.providence.edu/anderson-award/carps-winners/)
+  * June 2023: I started my summer Internship at the  Princeton Neuroscience Institute, an NSF-REU, working with Harrison Ritz and Jonathan Cohen
+  * May 2023: I was awarded the [Clint Anderson Research in Psychological Science Award](https://psychology.providence.edu/anderson-award/carps-winners/) which is awarded to the rising senior whose research proposal was found to represent the best of undergraduate research in psychological science
