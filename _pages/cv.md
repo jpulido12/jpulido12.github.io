@@ -140,39 +140,31 @@ Awards & Honors
   
 Service and leadership
 ======
-  * Student Dialogue Fellow, Dialogue Inclusion and Democracy Lab, 08/2023 - PRESENT
+  * **Student Dialogue Fellow**, Dialogue Inclusion and Democracy Lab, 08/2023 - PRESENT
     * Partnered with the Science Complex on campus to use a space in the building where everyone is able to voice their opinions on issues on campus and beyond to promote meaningful conversations for change
     * Co-organized in person events where the campus community can engage in dialogue in regard to issues in and beyond the campus
 
-  * Inclusive Teaching in STEM Reading Group Facilitator, 03- 04/2023
+  * **Facilitator**, Inclusive Teaching in STEM Student Reading Group, 03- 04/2023
       * Co-facilitated and organized a reading group where students discussed issues in inclusivity in STEM classrooms on campus 
       * Met with group of STEM faculty along with students in the STEM reading group to explore ways to promote diversity and inclusion in STEM on campus
 
-  * Hiring Interviewer, Providence College Tutoring Center, 03/2023
+  * **Hiring Interviewer**, Providence College Tutoring Center, 03/2023
     * Interviewed peer tutor applicants along with the Tutoring Center Leadership and provided feedback on applicants’ potential as a peer tutor
 
-  * Intellectual Engagement Communities, 01/2023 - PRESENT
-  
-  Steering Committee
+  * **Steering Committee** , Intellectual Engagement Communities, 01/2023 - PRESENT
     * Collaborate with fellow committee members on organizing a program that enables the campus community to engage in intellectual activities in the Multicultural building on campus 
     * Met weekly with fellow committee members to decide which activities to fund and allow to engage the 
 
-  * Student Success Center, 01/2023 - PRESENT
-  
-  Tutor Cabinet
+  * **Tutor Cabinet**, Student Success Center, 01/2023 - PRESENT
     * Collaborate on organizing Tutoring Center orientation and events 
 
-  * Head Tutor, Providence College Tutoring Center, 01/2023 - PRESENT
+  * **Head Tutor**, Providence College Tutoring Center, 01/2023 - PRESENT
     * Held a weekly office hour 
     * Served as a mentor to new tutors and co-facilitated orientation trainings 
 			
-  * STEM Advisory Board, 08/2022 - PRESENT
-  
-  Psychology Department Student Representative
+  * **Psychology Department Student Representative**, STEM Advisory Board, 08/2022 - PRESENT
     * Collaborated with other STEM representatives and STEM faculty to organize events that promote community and inclusion within STEM on campus
 
-  * Board of Multicultural Student Affairs, 08/2022 - PRESENT
-  
-  Programming Committee
+  * **Programming Committee**, Board of Multicultural Student Affairs, 08/2022 - PRESENT
     * Organized campus-wide events that celebrate multiculturalism and promote social justice 
 
