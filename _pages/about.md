@@ -14,7 +14,7 @@ Broadly, I'm interested in language, learning, and attention. How is information
 
 I am passionate about open science, teaching, mentoring, and social justice. 
 
-In my free time, I enjoy trying new restaurants, poker, swimming, exploring nature, and watching series like Game of Thrones and Supernatural. 
+In my free time, I enjoy trying new restaurants, poker, swimming, exploring nature, dancing with friends, and watching series like Game of Thrones and Supernatural. 
 
 
 Updates
