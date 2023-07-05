@@ -20,20 +20,16 @@ Education
 
 Research
 ======
-Princeton University
 
-
-
-
-**Neuroscience of Cognitive Control Lab**
+**Neuroscience of Cognitive Control Lab**, Princeton University
 
 Princeton Neuroscience Institute Summer Internship, June - Aug 2023
 
 Advisors: Jonathan D. Cohen & Harrison Ritz
 
-Providence College
 
-**Department of Psychology**
+
+**Department of Psychology**, Providence College
 
 Independent Study, Fall 2022 - PRESENT
 
@@ -43,7 +39,7 @@ Advisor: Joanna Morris
   * Utilized the Google Books corpus to analyze stimuli frequencies
   * Applied and received grant funding from the Providence College Psychology Department
   
-**Human Psychophysiology Lab**
+**Human Psychophysiology Lab**, Providence College
 
 Lab Manager, Aug 2021 - PRESENT
 
@@ -61,7 +57,7 @@ Advisor: Joanna Morris
   * In an ongoing study funded by RI-INBRE, we are investigating the extent to which individual differences in statistical learning impact word recognition
 
 
-**Risk and Prevention Lab**
+**Risk and Prevention Lab**, Providence College
 
 Research Assistant, Aug 2022 - PRESENT
 
