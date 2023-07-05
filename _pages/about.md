@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I was born and raised on the beautiful island of [Saipan](https://en.wikipedia.org/wiki/Saipan) in the Northern Mariana Islands. Now, I'm at Providence College studying Computer Science & Psychology
+I was born and raised on the beautiful island of [Saipan](https://en.wikipedia.org/wiki/Saipan) in the Northern Mariana Islands. Now, I'm at Providence College studying Computer Science & Psychology.
 
 Broadly, I'm interested in language, learning, and attention. How is information/input (such as language) that we retrieve from the natural world encoded in our minds? How does the brain/mind allow us to learn from the world? I intend on exploring these questions and more utilizing methods from cognitive and computational neuroscience.
 
+I am passionate about open science, teaching, mentoring, and social justice. 
+
+In my free time, I enjoy trying new restaurants, poker, swimming, horror movies, and binge watching series like Game of Thrones and Supernatural. 
 
 
 Recent Activity
