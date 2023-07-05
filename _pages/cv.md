@@ -49,8 +49,7 @@ Advisor: Joanna Morris
 
   * Facilitated training on electroencephalography (EEG) data acquisition using brainvision technologies for new research assistants 
   * Mentored new research assistants on data wrangling and data analysis using MatLab and R
-  
-  *Trained new research assistants on how to maintain the lab space and clean-up after EEG data collection
+  * Trained new research assistants on how to maintain the lab space and clean-up after EEG data collection
   
 Research Assistant, May 2021 - PRESENT
 
