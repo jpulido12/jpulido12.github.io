@@ -20,13 +20,16 @@ Education
 
 Research
 ======
-<Princeton University>
+Princeton University
+
+
+
 
 **Neuroscience of Cognitive Control Lab**
 Princeton Neuroscience Institute Summer Internship, June - Aug 2023
 Advisors: Jonathan D. Cohen & Harrison Ritz
 
-<Providence College>
+Providence College
 
 **Department of Psychology**
 Independent Study, Fall 2022 - PRESENT
@@ -81,6 +84,7 @@ Teaching Assistant for the following undergraduate courses:
 
 
 
+
 Skills
 ======
 **Spoken Languages:** English, Tagalog
@@ -90,6 +94,9 @@ Skills
 **Lab:** psychophysics, electroencephalography, event-related potentials
 **Version Control:** Git, Github, GitLab
 **Other:** Pavlovia, Latex, Bibtex, Excel, Netlify, MatLab EEGLab/ERPLab
+
+
+
 
 Awards & Honors
 ======
@@ -110,20 +117,9 @@ Awards & Honors
   * Liberal Arts Honors Program, Providence College, 2020 - 2024
   * St. Joseph Scholarship, Providence College, 2020 - 2024
   * Saipan Higher Education Financial Assistance Scholarship, Saipan Mayor’s Office
-
-
-
-#Publications
-#======
-# <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
   
-#Talks
-#======
-#  <ul>{% for post in site.talks %}
-#   {% include archive-single-talk-cv.html %}
-# {% endfor %}</ul>
+  
+  
   
   
 Service and leadership
