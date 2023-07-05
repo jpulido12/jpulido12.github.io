@@ -143,6 +143,7 @@ Service and leadership
     * Co-organized in person events where the campus community can engage in dialogue in regard to issues in and beyond the campus
 
   * Inclusive Teaching in STEM Reading Group, 03- 04/2023
+  
   2023 Facilitator, 2022 Participant
     * Co-facilitated and organized a reading group where students discussed issues in inclusivity in STEM classrooms on campus 
     * Met with group of STEM faculty along with students in the STEM reading group to explore ways to promote diversity and inclusion in STEM on campus
@@ -151,11 +152,13 @@ Service and leadership
     * Interviewed peer tutor applicants along with the Tutoring Center Leadership and provided feedback on applicants’ potential as a peer tutor
 
   * Intellectual Engagement Communities, 01/2023 - PRESENT
+  
   Steering Committee
     * Collaborate with fellow committee members on organizing a program that enables the campus community to engage in intellectual activities in the Multicultural building on campus 
     * Met weekly with fellow committee members to decide which activities to fund and allow to engage the 
 
   * Student Success Center, 01/2023 - PRESENT
+  
   Tutor Cabinet
     * Collaborate on organizing Tutoring Center orientation and events 
 
@@ -164,10 +167,12 @@ Service and leadership
     * Served as a mentor to new tutors and co-facilitated orientation trainings 
 			
   * STEM Advisory Board, 08/2022 - PRESENT
+  
   Psychology Department Student Representative
     * Collaborated with other STEM representatives and STEM faculty to organize events that promote community and inclusion within STEM on campus
 
   * Board of Multicultural Student Affairs, 08/2022 - PRESENT
+  
   Programming Committee
     * Organized campus-wide events that celebrate multiculturalism and promote social justice 
 
