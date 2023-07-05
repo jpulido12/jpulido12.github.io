@@ -11,7 +11,7 @@ redirect_from:
 
 Here is a link for my full cv: [click here](https://docs.google.com/document/d/1wvmLmTKqCZVyNTeP7ol5P8nKuEApagGp1KOqcArEVcs/edit?usp=sharing)
 
-Last updated: June 2023
+Last updated: July 2023
 
 Education
 ======
@@ -153,7 +153,7 @@ Service and leadership
 
   * **Steering Committee** , Intellectual Engagement Communities, 01/2023 - PRESENT
     * Collaborate with fellow committee members on organizing a program that enables the campus community to engage in intellectual activities in the Multicultural building on campus 
-    * Met weekly with fellow committee members to decide which activities to fund and allow to engage the 
+    * Met weekly with fellow committee members to decide which activities to fund 
 
   * **Tutor Cabinet**, Student Success Center, 01/2023 - PRESENT
     * Collaborate on organizing Tutoring Center orientation and events 
