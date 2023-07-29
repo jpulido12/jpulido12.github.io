@@ -28,6 +28,10 @@ Research
 Princeton Neuroscience Institute Summer Internship, June - Aug 2023
 
 Advisors: Jonathan D. Cohen & Harrison Ritz
+  * Translated task-switching experiment to a web-based task, accomodating the constraints of web-based experiments while retaining the rich audiovisual stimulik and millisecond-precision timing required to sudy attentional dynamics
+  * Collected and analyzed data from web-based task-switching experiment; results replicated previous findings that more preparation time improved performance when people switched tasks, much more than when they repeated tasks showing these effects are robust and generalizable
+  * Modified task-switching experiment by including an audiovisual perturbation to investigate if task-switching involves feedback control
+  * Collected and analyzed data from web-based perturbation study
 
 
 
@@ -143,7 +147,8 @@ Service and leadership
   * **Student Dialogue Fellow**, Dialogue Inclusion and Democracy Lab, 08/2023 - PRESENT
     * Partnered with the Science Complex on campus to use a space in the building where everyone is able to voice their opinions on issues on campus and beyond to promote meaningful conversations for change
     * Co-organized in person events where the campus community can engage in dialogue in regard to issues in and beyond the campus
-
+  * **Dream Coach**, Transitions Program, 08/2023
+      * Mentored incoming freshman multicultural students at Providence College
   * **Facilitator**, Inclusive Teaching in STEM Student Reading Group, 03- 04/2023
       * Co-facilitated and organized a reading group where students discussed issues in inclusivity in STEM classrooms on campus 
       * Met with group of STEM faculty along with students in the STEM reading group to explore ways to promote diversity and inclusion in STEM on campus
