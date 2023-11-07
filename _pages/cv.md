@@ -30,7 +30,7 @@ Research Intern, June - Aug 2023
 
 Advisors: Jonathan Cohen & Harrison Ritz
 
-Investigated whether individuals compensated when perturbed in between switching from one task to another
+*Investigated whether individuals compensated when perturbed in between switching from one task to another*
 
 **Human Psychophysiology Lab**, Providence College
 
@@ -42,7 +42,7 @@ Advisor: Joanna Morris
 
 [morrislabpc.org](morrislabpc.org)
 
-Elucidating the perceptual and cognitive processes involved in reading utilizing EEG/ERP with an aim to develop a computational model of reading  	
+*Elucidating the perceptual and cognitive processes involved in reading utilizing EEG/ERP with an aim to develop a computational model of reading* 	
 
 **Risk and Prevention Lab**, Providence College
 
@@ -50,7 +50,7 @@ Research Assistant, Aug 2022 - Present
 
 Advisor: Nicholas Tarantino
 
-Develop and evaluate interventions for risky health behaviors with the goal to prevent risk and improve health outcomes among adolescents and young adults in the U.S and sub-Saharan Africa
+*Develop and evaluate interventions for risky health behaviors with the goal to prevent risk and improve health outcomes among adolescents and young adults in the U.S and sub-Saharan Africa*
   
   
   
@@ -66,8 +66,6 @@ Tutored for the following undergraduate courses:
   * HON 101, 102, 201, & 202 Honors Development of Western Civilization
   * MTH 109: Calculus I
   * CSC 103: Introduction to Computer Science (Python)
-  * BIO 103: General Biology I
-  * BIO 104: General Biology II
   * PSY 260: Methods and Statistics in Psychology
 
 **Teaching Assistant**, Department of Biology, Providence College, F21 & S22
@@ -104,7 +102,6 @@ Awards & Honors
   * Princeton Neuroscience Institute Summer Internship, NSF-REU ($5,400), 2023
   * Summer Research Early Identification Program (SR-EIP), The Leadership Alliance, 2023
   * Phi Sigma Tau, International Honor Society in Philosophy, 2023
-  * Class of 2024 Ring Scholarship, Providence College, 2022
   * Travel Grant, ($300) Department of Psychology, Providence College, 2022
   * Travel Grant, ($300) School of Arts and Sciences, Providence College
   * Institutional Diversity Equity & Inclusion Mini-Grant, ($286) Institutional Diversity,Equity & Inclusion, Providence College, 2022
