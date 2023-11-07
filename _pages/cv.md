@@ -40,7 +40,7 @@ Research Assistant, May 2021 - Present
 
 Advisor: Joanna Morris
 
-[morrislabpc.org](morrislabpc.org)
+[https://www.morrislabpc.org/about/](https://www.morrislabpc.org/about/)
 
 *Elucidating the perceptual and cognitive processes involved in reading utilizing EEG/ERP with an aim to develop a computational model of reading* 	
 
