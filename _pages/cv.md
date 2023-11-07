@@ -26,16 +26,22 @@ Research
 
 **Neuroscience of Cognitive Control Lab**, Princeton University
 
-Researcg Intern, June - Aug 2023
+Research Intern, June - Aug 2023
 
 Advisors: Jonathan Cohen & Harrison Ritz
+
 Investigated whether individuals compensated when perturbed in between switching from one task to another
 
 **Human Psychophysiology Lab**, Providence College
+
 Lab Manager, Aug 2022 - Present
+
 Research Assistant, May 2021 - Present
+
 Advisor: Joanna Morris
+
 [morrislabpc.org](morrislabpc.org)
+
 Elucidating the perceptual and cognitive processes involved in reading utilizing EEG/ERP with an aim to develop a computational model of reading  	
 
 **Risk and Prevention Lab**, Providence College
@@ -43,6 +49,7 @@ Elucidating the perceptual and cognitive processes involved in reading utilizing
 Research Assistant, Aug 2022 - Present
 
 Advisor: Nicholas Tarantino
+
 Develop and evaluate interventions for risky health behaviors with the goal to prevent risk and improve health outcomes among adolescents and young adults in the U.S and sub-Saharan Africa
   
   
