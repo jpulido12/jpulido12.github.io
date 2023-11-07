@@ -13,7 +13,7 @@ Here is a link for my full cv: [click here](https://docs.google.com/document/d/1
 
 Last updated: July 2023
 
-Education
+EDUCATION
 ======
 *Providence College*
 
@@ -21,7 +21,7 @@ Bachelor of Science in Computer Science & Bachelor of Arts in Psychology
 
 
 
-Research
+RESEARCH
 ======
 
 **Neuroscience of Cognitive Control Lab**, Princeton University
@@ -54,8 +54,7 @@ Advisor: Nicholas Tarantino
   
   
   
-  
-Teaching
+TEACHING
 ======
 **Peer Tutor**, Tutoring Center, Providence College, Aug 2022 - PRESENT
 
@@ -95,23 +94,14 @@ Skills
 
 
 
-Awards & Honors
+Select Awards & Honors
 ======
   * Clint Anderson Research in Psychological Science Award ($3,920), 2023 - 2024
   * Dialogue and Democracy Fellowship, ($2,000), 2023 - 2024
   * Princeton Neuroscience Institute Summer Internship, NSF-REU ($5,400), 2023
   * Summer Research Early Identification Program (SR-EIP), The Leadership Alliance, 2023
-  * Phi Sigma Tau, International Honor Society in Philosophy, 2023
-  * Travel Grant, ($300) Department of Psychology, Providence College, 2022
-  * Travel Grant, ($300) School of Arts and Sciences, Providence College
-  * Institutional Diversity Equity & Inclusion Mini-Grant, ($286) Institutional Diversity,Equity & Inclusion, Providence College, 2022
-  * Undergraduate Research Conference Travel Fund, ($750) Center for Engaged Learning, Providence College, 2022
   * Summer Undergraduate Research Fellowship, ($4,900) Rhode Island IDeA Network of Biomedical Research Excellence, 2022
-  * Psi Chi, International Honor Society in Psychology, 2022	
   * Summer Undergraduate Research Grant, ($4,600) Undergraduate Research Committee, Providence College, 2021
-  * Dean’s List (6 semesters), Providence College, 2020 - 2023
-  * Liberal Arts Honors Program, Providence College, 2020 - 2024
-  * St. Joseph Scholarship, Providence College, 2020 - 2024
   * Saipan Higher Education Financial Assistance Scholarship, Saipan Mayor’s Office
   
   
