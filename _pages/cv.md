@@ -15,8 +15,9 @@ Last updated: July 2023
 
 Education
 ======
-* Bachelor of Arts in Psychology, Providence College, 2024
-* Bachelor of Science in Computer Science, Providence College, 2024
+*Providence College*
+
+Bachelor of Science in Computer Science & Bachelor of Arts in Psychology
 
 
 
@@ -25,50 +26,24 @@ Research
 
 **Neuroscience of Cognitive Control Lab**, Princeton University
 
-Princeton Neuroscience Institute Summer Internship, June - Aug 2023
+Researcg Intern, June - Aug 2023
 
-Advisors: Jonathan D. Cohen & Harrison Ritz
-  * Translated task-switching experiment to a web-based task, accomodating the constraints of web-based experiments while retaining the rich audiovisual stimulik and millisecond-precision timing required to sudy attentional dynamics
-  * Collected and analyzed data from web-based task-switching experiment; results replicated previous findings that more preparation time improved performance when people switched tasks, much more than when they repeated tasks showing these effects are robust and generalizable
-  * Modified task-switching experiment by including an audiovisual perturbation to investigate if task-switching involves feedback control
-  * Collected and analyzed data from web-based perturbation study
+Advisors: Jonathan Cohen & Harrison Ritz
+Investigated whether individuals compensated when perturbed in between switching from one task to another
 
-
-
-**Department of Psychology**, Providence College
-
-Independent Study, Fall 2022 - PRESENT
-
-Advisor: Joanna Morris
-
-  * Proposed an N400 & P600 ERP study to investigate how stereotype violations are recognized linguistically
-  * Utilized the Google Books corpus to analyze stimuli frequencies
-  * Applied and received grant funding from the Providence College Psychology Department
-  
 **Human Psychophysiology Lab**, Providence College
-
-Lab Manager, Aug 2021 - PRESENT
-
-Advisor: Joanna Morris 
-
-  * Facilitated training on electroencephalography (EEG) data acquisition using brainvision technologies for new research assistants 
-  * Mentored new research assistants on data wrangling and data analysis using MatLab and R
-  * Trained new research assistants on how to maintain the lab space and clean-up after EEG data collection
-  
-Research Assistant, May 2021 - PRESENT
-
-Advisor: Joanna Morris 
-  * Built and deployed lab website: [https://www.morrislabpc.org/about/](https://www.morrislabpc.org/about/)
-  * Measured ERP responses in a mask-priming study to stem targets preceded by complex primes with either high- or low-frequency affixes (e.g., “walker-walk” vs “cashier-cash”) and found that the magnitude of priming as measured by response times, as well as by the amplitude of the N250 component—an index of compositionality—was not significantly greater for primes with high frequency affixes than for primes with low frequency affixes
-  * In an ongoing study funded by RI-INBRE, we are investigating the extent to which individual differences in statistical learning impact word recognition
-
+Lab Manager, Aug 2022 - Present
+Research Assistant, May 2021 - Present
+Advisor: Joanna Morris
+[morrislabpc.org](morrislabpc.org)
+Elucidating the perceptual and cognitive processes involved in reading utilizing EEG/ERP with an aim to develop a computational model of reading  	
 
 **Risk and Prevention Lab**, Providence College
 
-Research Assistant, Aug 2022 - PRESENT
+Research Assistant, Aug 2022 - Present
 
 Advisor: Nicholas Tarantino
-  * In an ongoing study funded by the National Institutes of Health, we are developing a unique game-based text message program to improve Human Immunodeficiency Virus (HIV) treatment adherence among young adults living with HIV in Ghana, West Africa
+Develop and evaluate interventions for risky health behaviors with the goal to prevent risk and improve health outcomes among adolescents and young adults in the U.S and sub-Saharan Africa
   
   
   
@@ -93,8 +68,6 @@ Tutored for the following undergraduate courses:
 Teaching Assistant for the following undergraduate courses: 
   * BIO 103 & BIO 103 lab: General Biology I & General Biology I Lab
   * BIO 104 & BIO 104 lab: General Biology II & General Biology II Lab
-* Assisted Biology faculty in lab preparation, experiment take-down, and cleanup. 
-* Provided guidance to students during lab experiments on skills such as polymerase chain reaction, gel electrophoresis, and data analysis using R
 
 
 
@@ -103,9 +76,8 @@ Skills
 ======
 **Spoken Languages:** English, Tagalog
 
-**Programming:** R, Python, MatLab, C++
+**Programming:** R, Python, MatLab, C++, html/css
 
-**Markup Languages:** Markdown, RMarkdown, HTML 
 
 **Software:** NVivo, OpenSesame, Psychopy, PsychoJS, BrainVision
 
