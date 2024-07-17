@@ -24,6 +24,23 @@ Bachelor of Science in Computer Science & Bachelor of Arts in Psychology
 RESEARCH
 ======
 
+**Badre Lab**, Brown University
+
+Lab Manager/Research Assistant, May 2024 - Present
+
+Advisors: David Badre & Apoorva Bhandari
+
+
+**Human Psychophysiology Lab**, Providence College
+
+Lab Manager/Research Assistant, May 2021 - May 2024
+
+Advisor: Joanna Morris
+
+[https://www.morrislabpc.org/about/](https://www.morrislabpc.org/about/)
+
+*Elucidating the perceptual and cognitive processes involved in reading utilizing EEG/ERP to develop a computational model of reading* 	
+
 **Neuroscience of Cognitive Control Lab**, Princeton University
 
 Research Intern, June - Aug 2023
@@ -32,17 +49,6 @@ Advisors: Jonathan Cohen & Harrison Ritz
 
 *Investigated whether individuals compensated when perturbed in between switching from one task to another*
 
-**Human Psychophysiology Lab**, Providence College
-
-Lab Manager, Aug 2022 - Present
-
-Research Assistant, May 2021 - Present
-
-Advisor: Joanna Morris
-
-[https://www.morrislabpc.org/about/](https://www.morrislabpc.org/about/)
-
-*Elucidating the perceptual and cognitive processes involved in reading utilizing EEG/ERP with an aim to develop a computational model of reading* 	
 
 **Risk and Prevention Lab**, Providence College
 
@@ -85,11 +91,10 @@ Skills
 
 **Software:** NVivo, OpenSesame, Psychopy, PsychoJS, BrainVision
 
-**Lab:** psychophysics, electroencephalography, event-related potentials
+**Lab:** psychophysics, EEG, ERP
 
-**Version Control:** Git, Github, GitLab
 
-**Other:** Pavlovia, Latex, Bibtex, Excel, Netlify, MatLab EEGLab/ERPLab
+**Other:** Git, Github, Pavlovia, Latex, Bibtex, Excel, Netlify, MatLab EEGLab/ERPLab
 
 
 
