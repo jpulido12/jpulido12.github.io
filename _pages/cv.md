@@ -11,13 +11,12 @@ redirect_from:
 
 Here is a link for my full cv: [click here](https://docs.google.com/document/d/1wvmLmTKqCZVyNTeP7ol5P8nKuEApagGp1KOqcArEVcs/edit?usp=sharing)
 
-Last updated: July 2023
+Last updated: July 2024
 
 EDUCATION
 ======
-*Providence College*
 
-Bachelor of Science in Computer Science & Bachelor of Arts in Psychology
+BS Computer Science & BA Psychology, Providence College
 
 
 
@@ -62,14 +61,12 @@ Advisor: Nicholas Tarantino
   
 TEACHING
 ======
-**Peer Tutor**, Tutoring Center, Providence College, Aug 2022 - PRESENT
+**Peer Tutor**, Tutoring Center, Providence College, Aug 2022 - May 2024
 
-Tutored for the following undergraduate courses: 
+Select courses tutored: 
   * R Programming (any course on campus using R for statistics)
-  * CSC 120:  Data Analytics (R, Git, Github)
   * DWC 101, 102, 201, & 202 Development of Western Civilization (Western Philosophy, Theology, History & Literature)
   * HON 101, 102, 201, & 202 Honors Development of Western Civilization
-  * MTH 109: Calculus I
   * CSC 103: Introduction to Computer Science (Python)
   * PSY 260: Methods and Statistics in Psychology
 
@@ -84,9 +81,9 @@ Teaching Assistant for the following undergraduate courses:
 
 Skills
 ======
-**Spoken Languages:** English, Tagalog
+**Human Languages:** English, Tagalog
 
-**Programming:** R, Python, MatLab, C++, html/css
+**Programming Languages:** R, Python, MatLab, C++, html/css
 
 
 **Software:** NVivo, OpenSesame, Psychopy, PsychoJS, BrainVision
@@ -112,35 +109,3 @@ Select Awards & Honors
   
   
   
-  
-Service and leadership
-======
-  * **Student Dialogue Fellow**, Dialogue Inclusion and Democracy Lab, 08/2023 - PRESENT
-    * Partnered with the Science Complex on campus to use a space in the building where everyone is able to voice their opinions on issues on campus and beyond to promote meaningful conversations for change
-    * Co-organized in person events where the campus community can engage in dialogue in regard to issues in and beyond the campus
-  * **Dream Coach**, Transitions Program, 08/2023
-      * Mentored incoming freshman multicultural students at Providence College
-  * **Facilitator**, Inclusive Teaching in STEM Student Reading Group, 03- 04/2023
-      * Co-facilitated and organized a reading group where students discussed issues in inclusivity in STEM classrooms on campus 
-      * Met with group of STEM faculty along with students in the STEM reading group to explore ways to promote diversity and inclusion in STEM on campus
-
-  * **Hiring Interviewer**, Providence College Tutoring Center, 03/2023
-    * Interviewed peer tutor applicants along with the Tutoring Center Leadership and provided feedback on applicants’ potential as a peer tutor
-
-  * **Steering Committee** , Intellectual Engagement Communities, 01/2023 - PRESENT
-    * Collaborate with fellow committee members on organizing a program that enables the campus community to engage in intellectual activities in the Multicultural building on campus 
-    * Met weekly with fellow committee members to decide which activities to fund 
-
-  * **Tutor Cabinet**, Student Success Center, 01/2023 - PRESENT
-    * Collaborate on organizing Tutoring Center orientation and events 
-
-  * **Head Tutor**, Providence College Tutoring Center, 01/2023 - PRESENT
-    * Held a weekly office hour 
-    * Served as a mentor to new tutors and co-facilitated orientation trainings 
-			
-  * **Psychology Department Student Representative**, STEM Advisory Board, 08/2022 - PRESENT
-    * Collaborated with other STEM representatives and STEM faculty to organize events that promote community and inclusion within STEM on campus
-
-  * **Programming Committee**, Board of Multicultural Student Affairs, 08/2022 - PRESENT
-    * Organized campus-wide events that celebrate multiculturalism and promote social justice 
-
