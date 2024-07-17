@@ -17,6 +17,6 @@ Outside research, I enjoy making and eating food, makeup and fashion, swimming, 
 
 Updates
 ======
-  * May 2024: Done with Undergrad! Started working as a lab manager/RA at the Badre lab at Brown!
+  * May 2024: Done with Undergrad! Started working as a lab manager/RA at the Badre lab at Brown, working with Apoorva Bhandari and David Badre!
   * June 2023: I started my summer Internship at Princeton, working with Harrison Ritz and Jonathan Cohen!
   * May 2023: I received the Clint Anderson Research in Psychological Science Award to fund my senior project studying social cognition advised by my mentor [Joanna Morris](https://psychology.providence.edu/faculty-members/joanna-morris/)!
