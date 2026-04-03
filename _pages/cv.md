@@ -28,6 +28,7 @@ RESEARCH
 Lab Manager/Research Assistant, May 2024 - Present
 
 Advisors: David Badre & Apoorva Bhandari
+*Neuroscience of Cognitive Control of Memory & Action Using behavioral testing, fMRI & EEG *
 
 
 **Human Psychophysiology Lab**, Providence College
@@ -46,12 +47,12 @@ Research Intern, June - Aug 2023
 
 Advisors: Jonathan Cohen & Harrison Ritz
 
-*Investigated whether individuals compensated when perturbed in between switching from one task to another*
+*Investigated task-switching dynamics with distraction*
 
 
 **Risk and Prevention Lab**, Providence College
 
-Research Assistant, Aug 2022 - Present
+Research Assistant, Aug 2022 - May 2024
 
 Advisor: Nicholas Tarantino
 
@@ -81,14 +82,14 @@ Teaching Assistant for the following undergraduate courses:
 
 Skills
 ======
-**Human Languages:** English, Tagalog
+**Languages:** English, Tagalog
 
-**Programming Languages:** R, Python, MatLab, C++, html/css
+**Programming:** R, Python, MatLab, C++, html/css 
 
 
 **Software:** NVivo, OpenSesame, Psychopy, PsychoJS, BrainVision
 
-**Lab:** psychophysics, EEG, ERP
+**Lab:** psychophysics, EEG, ERP, fMRI
 
 
 **Other:** Git, Github, Pavlovia, Latex, Bibtex, Excel, Netlify, MatLab EEGLab/ERPLab

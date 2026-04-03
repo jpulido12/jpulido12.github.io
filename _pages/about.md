@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I was born and raised on the beautiful island of [Saipan](https://en.wikipedia.org/wiki/Saipan) in the Northern Mariana Islands. Currently, I'm at Brown as a lab manager/RA studying cognitive control. I plan to apply to PhD programs in Cognitive Science, Psychology, or Neuroscience. 
+I was born and raised on the beautiful island of [Saipan](https://en.wikipedia.org/wiki/Saipan) in the Northern Mariana Islands. Currently, I'm at Brown as a lab manager/RA studying cognitive control. I plan to apply to PhD programs in Cognitive Neuroscience. 
 
-My goal is to lead a research program as a principal investigator and professor and training the next generation of scientists. My research interests include cognitive flexibility, language, and learning. I am passionate about open science, teaching, mentoring, and social justice. 
+My main research interests are in cognitive control, learning, and translating discoveries in basic science into interventions to improve mental health. I am passionate about open science, teaching, mentoring, and social justice. 
 
 Outside research, I enjoy making and eating food, makeup and fashion, swimming, reading, exploring nature, dancing with friends, and watching series like Game of Thrones. 
 
